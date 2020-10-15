@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "dependencies": {
+    "hohhoijaa": "^1.0.5"
+  }
+}
